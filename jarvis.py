@@ -95,33 +95,6 @@ if __name__ == "__main__":
         elif 'what is your name' in query.lower():
             speak("My name is Jarvis, I am your personal assistant")
 
-        elif 'open google' in query.lower():
-            wb.open('https://google.com')
-
-        elif 'open reddit' in query.lower():
-            wb.open('https://reddit.com')
-
-        elif 'open amazon' in query.lower():
-            wb.open('https://amazon.ae')
-
-        elif 'open wikipedia' in query.lower():
-            wb.open('https://wikipedia.com')
-
-        elif 'open discord' in query.lower():
-            wb.open('https://discord.com/channels/@me')
-
-        elif 'open gmail' in query.lower():
-            wb.open('https://gmail.com')
-
-        elif 'open yahoo' in query.lower():
-            wb.open('https://yahoo.com')
-
-        elif 'open twitter' in query.lower():
-            wb.open('https://twitter.com')
-
-        elif 'open stack overflow' in query.lower():
-            wb.open('https://stackoverflow.com')
-
         elif 'what time is it' in query.lower():
             speak(time())
 
