@@ -8,7 +8,6 @@ import os
 from requests import get
 import pyaudio
 import urllib.request
-from selenium import webdriver
 from time import sleep
 
 #pyttsx3
