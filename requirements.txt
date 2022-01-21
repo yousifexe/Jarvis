@@ -3,3 +3,4 @@ SpeechRecognition==3.8.1
 wikipedia==1.4.0
 pywhatkit==5.3
 PyAudio==0.2.11
+Flask==2.0.2
