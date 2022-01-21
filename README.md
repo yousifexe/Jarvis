@@ -14,3 +14,5 @@ things you can ask (its voice activated and uses your device's main microphone
 11. website (it will will search whatever you ask it to search and put .com at the end off it) ex: "search youtube", it will open a tab and search youtube.com
 12. go to sleep (it will keep the script running and listening but it will stop him from responding to your questions or commands
 13. activate (it will wake him up and have him listen to your commands and respond again)
+
+(also for whatever reason this project only seems to work on python 3.7.0 and you have to use pipwin to install PyAudio)
